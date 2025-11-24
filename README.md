@@ -4,13 +4,15 @@
 
 <table>
   <tr>
-    <td>
-      🔭 I’m currently working on mastering the art of procrastination and pretending to know what I’m doing<br>
-      👯 Looking to collaborate on cybersecurity, AI, and machine learning projects – the cooler, the better.<br>
-      🌱 "I’m currently learning various cybersecurity tools – mastering the tricks to protect systems and keep data secure!"<br>
-      💬 Ask me about cybersecurity, AI/ML, or building real-time platforms with Next.js.<br>
-      ⚡ I love solving problems with tech – if there's a bug, there's always a fix!
-    </td>
+    <td## About Me
+
+Breaking into cybersecurity one CTF at a time. 
+
+I work on penetration testing, threat detection, and cloud security projects. Built intrusion detection systems, automated AWS monitoring, and spent way too much time with Burp Suite and DVWA.
+
+Won a couple CTFs, got some certs (ISC2 CC, working on BTL1), and genuinely enjoy finding vulnerabilities before they become problems.
+
+Always learning. Always caffeinated. If there's a bug, there's a fix—just need to find it.
     <td>
       <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200" height="200">
     </td>
