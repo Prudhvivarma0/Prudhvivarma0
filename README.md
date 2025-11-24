@@ -6,7 +6,7 @@
   <tr>
     <td## About Me
 
-  🔭 Breaking into cybersecurity one CTF at a time. Currently doing IT work at MCN while finishing my Computer Science degree at Heriot Watt Dubai.<br>
+  🔭 Breaking into cybersecurity one CTF at a time. <br>
   👯 Looking to collaborate on penetration testing, threat detection, and cloud security projects.<br>
   🌱 Working on intrusion detection systems, AWS monitoring, and spending way too much time with Burp Suite and DVWA.<br>
   💬 Ask me about pentesting, SOC operations, or how I won those CTFs.<br>
