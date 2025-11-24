@@ -27,8 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prudhvivarma11) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prudhvivarma31@gmail.com)
 
 
-# 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=Prudhvivarma0&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Prudhvivarma0&theme=dark&hide_border=false) |
+
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
 
 
