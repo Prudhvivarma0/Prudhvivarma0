@@ -6,13 +6,12 @@
   <tr>
     <td## About Me
 
-Breaking into cybersecurity one CTF at a time. 
-
-I work on penetration testing, threat detection, and cloud security projects. Built intrusion detection systems, automated AWS monitoring, and spent way too much time with Burp Suite and DVWA.
-
-Won a couple CTFs, got some certs (ISC2 CC, working on BTL1), and genuinely enjoy finding vulnerabilities before they become problems.
-
-Always learning. Always caffeinated. If there's a bug, there's a fix—just need to find it.
+  🔭 Breaking into cybersecurity one CTF at a time. Currently doing IT work at MCN while finishing my Computer Science degree at Heriot Watt Dubai.<br>
+  👯 Looking to collaborate on penetration testing, threat detection, and cloud security projects.<br>
+  🌱 Working on intrusion detection systems, AWS monitoring, and spending way too much time with Burp Suite and DVWA.<br>
+  💬 Ask me about pentesting, SOC operations, or how I won those CTFs.<br>
+  ⚡ Always learning. Always caffeinated. If there's a bug, there's a fix—just need to find it.
+</td>
     <td>
       <img src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200" height="200">
     </td>
